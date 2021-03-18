@@ -2,7 +2,6 @@ node_modules
 vendor
 npm-debug.log
 .gobble-build
-dist
 .gobble
 .gobble-build
 .gobble-watch
